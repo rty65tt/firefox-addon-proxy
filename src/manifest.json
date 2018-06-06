@@ -18,22 +18,23 @@
   },
 
   "background": {
-    "scripts": [
-      "background.js"
-    ]
+    "scripts": [ "background.js" ]
   },
   "page_action": {
-     "browser_style": true,
-     "show_matches": [
-        "*://rutracker.org/*",
-        "*://rutor.org/*",
-        "*://rutor.info/*",
-        "*://rutor.is/*"
+      "show_matches": [
+    "*://rutracker.org/*",
+    "*://rutor.info/*",
+    "*://rutor.is/*"
       ],
      "default_icon": { "19":"icons/icon.svg" },
      "default_title": "Proxy On"
   },
 
-  "permissions": ["activeTab", "proxy"]
+  "permissions": [
+    "*://rutracker.org/*",
+    "*://rutor.info/*",
+    "*://rutor.is/*",
+    "activeTab", "proxy"
+  ]
 
 }
