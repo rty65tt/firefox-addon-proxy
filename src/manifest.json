@@ -1,9 +1,9 @@
 {
   "name": "Proxy Rutor + Rutracker",
-  "description": "Proxy for rutracker.org, rutor.is, rutor,info, rutor.org",
+  "description": "Proxy for rutracker.org, rutor.is, rutor,info",
   "manifest_version": 2,
   "short_name": "proxy",
-  "version": "1.0",
+  "version": "1.1",
 
   "icons": {
     "48": "icons/icon.svg",

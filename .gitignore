@@ -1,0 +1,14 @@
+.gitconfig
+.vscode
+build
+.git
+*.o
+*.res
+*.scr
+*.exe
+*.com
+*.log
+debug
+logs
+TODOList.org
+.bk
