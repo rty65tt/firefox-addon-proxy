@@ -1,4 +1,4 @@
 // Location of the proxy script, relative to manifest.json
-const proxyScriptURL = "proxy/proxy-script.pac";
+const proxyScriptURL = "proxy.pac";
 
 browser.proxy.register(proxyScriptURL);
