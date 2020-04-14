@@ -1,6 +1,6 @@
 /* exported FindProxyForURL */
 
-var rutorHosts = ['rutor.is', 'rutor.info'];
+var rutorHosts = ['rutor.is', 'rutor.info', 'hd-pro.info'];
 var rutrackerHosts = ['rutracker.org'];
 
 const allow = "DIRECT";
